@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Joinus</string>
+    <string name="rc_color">splash_background</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="지도">지도\n2013722020 이전제</string>
+
+    <string name="카테고리버튼">스터디 선택</string>
+    <string name="성별버튼">성별 입력</string>
+    <string name="레벨버튼">세부 선택</string>
+    <string name="입력완료">입력완료\n2013722020 이전제</string>
+    <string name="로그인">로그인</string>
+    <string name="회원가입">회원가입</string>
+    <string name="중복조회">중복조회</string>
+    <string name="hint">하고싶은 말 입력</string>
+    <string name="뒤로가기">뒤로가기</string>
+    <string name="회원가입완료">회원가입완료</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+
+</resources>

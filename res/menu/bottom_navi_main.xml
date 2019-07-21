@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_people"
+        android:icon="@drawable/baseline_people_black_24dp"
+        android:title="유저"
+        android:orderInCategory="1"></item>
+    <item android:id="@+id/action_chat"
+        android:icon="@drawable/baseline_chat_black_24dp"
+        android:title="채팅"
+        android:orderInCategory="2"></item>
+    <item android:id="@+id/action_account"
+        android:icon="@drawable/baseline_search_black_24dp"
+        android:title="찾기"
+        android:orderInCategory="3"></item>
+
+</menu>

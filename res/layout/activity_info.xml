@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InfoActivity">
+
+    <Button
+        android:id="@+id/GenderButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/button"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/성별버튼"
+        android:textColor="#000000"
+        android:textSize="17sp"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="148dp" />
+
+    <Button
+        android:id="@+id/LevelButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="165dp"
+        android:background="@drawable/button"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/레벨버튼"
+        android:textColor="#000000"
+        android:textSize="17sp"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+    <Button
+        android:id="@+id/CategoryButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/button"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/카테고리버튼"
+        android:textColor="#000000"
+        android:textSize="17sp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+
+
+
+    <TextView
+        android:id="@+id/CategoryVIew"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/GenderView"
+        android:layout_toEndOf="@+id/GenderView"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="191dp"
+        tools:layout_editor_absoluteY="92dp" />
+
+    <TextView
+        android:id="@+id/LevelView"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/CategoryVIew"
+        android:layout_toEndOf="@+id/CategoryVIew"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/GenderView"
+        android:layout_width="81dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="134dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="239dp"
+        tools:layout_editor_absoluteY="175dp" />
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="121dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="212dp"
+
+        android:background="@drawable/button"
+        android:ems="10"
+        android:gravity="center_horizontal|center_vertical"
+        android:hint="@string/hint"
+        android:inputType="text"
+        android:textColorHint="#000000"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="363dp" />
+
+
+    <Button
+        android:id="@+id/BackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/button"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/입력완료"
+        android:textColor="#000000"
+
+        android:textSize="17sp"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+
+</RelativeLayout>
