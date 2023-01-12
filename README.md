@@ -1,8 +1,8 @@
 
 ![제품개요](https://user-images.githubusercontent.com/43032391/212151722-c3fd8504-cf16-4ec1-9313-25eabeebd182.PNG)
 ![개발동기](https://user-images.githubusercontent.com/43032391/212151728-95c22a71-5af3-4622-a778-c433a23f4abb.PNG)
-![주요기능](https://user-images.githu
-![유사 제품](https://user-images.githubuserco
+![주요기능](https://user-images.githubusercontent.com/43032391/212152271-34fef170-532d-4906-8881-dc37ca136e24.PNG)
+![유사 제품](https://user-images.githubusercontent.com/43032391/212152296-ff961b6c-13a9-4696-82db-a3a922382773.PNG)
 ![block diagram](https://user-images.githubusercontent.com/43032391/212151775-072289d8-9ad1-4892-88db-3be4978db575.png)
 ![flow chart](https://user-images.githubusercontent.com/43032391/212151788-9d82928a-773c-46b8-9c3c-23770edf978a.PNG)
 ntent.com/43032391/212151748-f8ebb3b3-2635-4deb-b799-54e9a6c6533f.PNG)
