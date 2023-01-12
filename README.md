@@ -5,18 +5,13 @@
 ![유사 제품](https://user-images.githubusercontent.com/43032391/212152296-ff961b6c-13a9-4696-82db-a3a922382773.PNG)
 ![block diagram](https://user-images.githubusercontent.com/43032391/212151775-072289d8-9ad1-4892-88db-3be4978db575.png)
 ![flow chart](https://user-images.githubusercontent.com/43032391/212151788-9d82928a-773c-46b8-9c3c-23770edf978a.PNG)
-ntent.com/43032391/212151748-f8ebb3b3-2635-4deb-b799-54e9a6c6533f.PNG)
-busercontent.com/43032391/212151735-d345f454-6f9a-47ae-be3b-79daa3127b86.PNG)
-![화면1](https://user-images.githubusercontent.com/43032391/212151865-710a4cb1-da63-497d-80ba-39ea02953bad.PNG)
-![화면2](https://user-images.githubuse
-![화면3](https://user-images.githubusercontent.com/43032391/212151883-07873831-4865-45b7-a976-d5c7d4f24c46.PNG)
-rcontent.com/43032391/212151872-3d2c1067-d2aa-4dae-b45b-fddf048b139d.PNG)
-![화면4](https://user-imag
-![화면5](https://user-images.githubusercontent.com/43032391/212151908-d17f4010-4cf1-4cab-9452-9ccbf8078626.PNG)
-busercontent.com/43032391/212151902-3778cad6-c1cb-4b1f-85e1-3edc6fb406ad.PNG)
-![화면6](https://user-images.githubusercontent.com/43032391/212151944-63e1f924-f2c
-![화면7](https://user-images.githubusercontent.com/43032391/212151950-542ab47d-577c-4756-819d-42b1f0d58bfa.PNG)
-5-4975-a5bb-a5d759207e05.PNG)
-![화면8](https://user-images.githubusercontent.com/43032391/212151968-7317b728-bc0c-482b-879d-7d6762825802.PNG)
 
 
+![화면1](https://user-images.githubusercontent.com/43032391/212152483-3cd557cd-1931-44c7-b405-250a500b050c.PNG)
+![화면2](https://user-images.githubusercontent.com/43032391/212152481-b6f367aa-abe3-4f9f-a289-b7356ba0e9a7.PNG)
+![화면3](https://user-images.githubusercontent.com/43032391/212152477-158600b0-073e-4f74-b62e-bffde389485a.PNG)
+![화면4](https://user-images.githubusercontent.com/43032391/212152474-9c09aba4-e8a7-4b6e-80f2-d4cfb06f2652.PNG)
+![화면5](https://user-images.githubusercontent.com/43032391/212152473-3fad9a4e-aa82-425b-8652-5cc3029b1a8e.PNG)
+![화면6](https://user-images.githubusercontent.com/43032391/212152471-158cc9a8-d0cd-47e4-a27e-46c67e88636e.PNG)
+![화면7](https://user-images.githubusercontent.com/43032391/212152470-e29c786c-15c8-428a-ac80-8ca373fbcf63.PNG)
+![화면8](https://user-images.githubusercontent.com/43032391/212152464-f5fcea67-f844-4500-84e7-21f0ee402a61.PNG)
